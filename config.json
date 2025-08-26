@@ -1,0 +1,24 @@
+{
+  "clientId": "bb8442290b7d4656835f9f2472717ca2",
+  "clientSecret": "",
+  "playlistsToInclude": [
+    "Chill",
+    "Liked Songs",
+    "Singin Songs"
+  ],
+  "weightModifier": 1,
+  "numberOfRadioArtists": 100,
+  "radioArtistSongs": 8,
+  "removeRadioSongsByWeight": true,
+  "includeRadioInMaster": true,
+  "includeDiscoverWeeklyInRadio": true,
+  "artistIHearTooMuch": true,
+  "artistBlacklist": true,
+  "MasterSongs": 1500,
+  "excludedWords": [
+    "Commentary",
+    "Documentary",
+    "Live"
+  ]
+}
+
