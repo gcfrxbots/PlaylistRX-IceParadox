@@ -1,24 +1,18 @@
 {
   "clientId": "bb8442290b7d4656835f9f2472717ca2",
-  "clientSecret": "",
+  "clientSecret": "d620bc83b7e04680b943e69e45512980",
   "playlistsToInclude": [
-    "Chill",
-    "Liked Songs",
-    "Singin Songs"
+    "iCeParadox64",
+	"Discover Weekly"
   ],
   "weightModifier": 1,
-  "numberOfRadioArtists": 100,
-  "radioArtistSongs": 8,
+  "numberOfRadioArtists": 75,
+  "radioArtistSongs": 10,
   "removeRadioSongsByWeight": true,
   "includeRadioInMaster": true,
   "includeDiscoverWeeklyInRadio": true,
   "artistIHearTooMuch": true,
   "artistBlacklist": true,
   "MasterSongs": 1500,
-  "excludedWords": [
-    "Commentary",
-    "Documentary",
-    "Live"
-  ]
+  "excludedWords": []
 }
-
